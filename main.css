@@ -7,10 +7,18 @@ body {
   background-size: cover;
   padding: 500px;
   margin: 30px;  
+     font-family: roboto, sans-serif;
 }
 
 .genre{
-    font-family: roboto, sans-serif;
-    font-size: 2rem;
-    font-color: #ffffff;
+   
+    font-size: 4rem;
+    font-color: gold;
+}
+
+h2{
+  
+   font-size: 6rem;
+   font-color: maroon;
+   font-weight: bold;    
 }
