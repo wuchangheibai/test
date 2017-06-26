@@ -8,6 +8,10 @@ body{
   flex-wrap: wrap;
   justify-content: center;
   text-align: center;
+  font-family: "Patrick Hand Sc", serif;
+  font style: italic;
+  font-weight: bold;
+  color: gold;
 }
 
 h1 {
