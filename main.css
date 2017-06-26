@@ -12,13 +12,17 @@ body {
 
 .genre{
    
-    font-size: 4rem;
-    font-color: gold;
+    font-size: 3rem;
+    color: gold;
 }
 
 h2{
   
-   font-size: 6rem;
-   font-color: maroon;
+   font-size: 4rem;
+   color: maroon;
    font-weight: bold;    
+}
+
+li{
+      
 }
