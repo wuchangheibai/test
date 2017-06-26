@@ -4,9 +4,9 @@ body{
 }
 
 .gallery{
-  display: inline;
-  /*flex-wrap: wrap;
-  justify-content: center;*/
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   /*text-align: center;
   font-family: "Patrick Hand Sc", serif;
   font style: italic;
