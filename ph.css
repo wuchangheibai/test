@@ -14,11 +14,12 @@ h1 {
   font style: italic;
   font-weight: bold;
   color: gold;
+  text-align: center;
 }
 
 .resize {
     height: auto; 
     width: auto; 
-    max-width: 33%; 
-    max-height: 33%; 
+    max-width: 500px; 
+    max-height: 500px; 
 }
