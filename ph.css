@@ -22,5 +22,8 @@ h1 {
     width: auto; 
     max-width: 500px; 
     max-height: 500px; 
-    display:inline;
+}
+
+img{
+  display: inline; 
 }
