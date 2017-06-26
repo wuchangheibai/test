@@ -18,18 +18,19 @@ body {
     color: gold;
     font-family: 'Patrick Hand Sc', sans-serif;
     font-style: italic;
+    font-weight: bold;
 }
 
 h2{
    font-family: ubuntu, serif;
    font-size: 4rem;
-   color: OrangeRed;
+   color: Brown;
    font-weight: bold;    
 }
 
 h1{
     font-family: ubuntu, serif;
-    color: OrangeRed;
+    color: Brown;
 }
 
 
