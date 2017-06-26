@@ -1,0 +1,17 @@
+body{
+  background-image: url("http://provoscene.com/wp-content/uploads/2014/04/crowd.png");
+  background-size: cover;
+}
+
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+h1 {
+  font-family: "Patrick Hand Sc", serif;
+  font style: italic;
+  font-weight: bold;
+  color: gold;
+}
