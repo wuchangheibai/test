@@ -1,9 +1,10 @@
 body {
-    text-align: center; 
+    text-align: center;
+    background-color: steelblue;
 }
 
 .hero{
-  background-image: url("http://orig11.deviantart.net/c944/f/2013/357/c/7/music_by_mikeinel-d6z3gy8.jpg");
+  background-image: url("http://orig09.deviantart.net/fdce/f/2016/279/d/a/music_class_by_arsenixc-dak2elh.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   padding: 125px;
