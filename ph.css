@@ -1,3 +1,8 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
 body{
   background-image: url("http://provoscene.com/wp-content/uploads/2014/04/crowd.png");
   background-size: cover;
