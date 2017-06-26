@@ -5,4 +5,5 @@ body {
 .hero{
   background-image: url("http://orig11.deviantart.net/c944/f/2013/357/c/7/music_by_mikeinel-d6z3gy8.jpg");
   background-size: cover;
+  padding: 500px;
 }
