@@ -4,8 +4,8 @@ body {
 
 .hero{
   background-image: url("http://orig11.deviantart.net/c944/f/2013/357/c/7/music_by_mikeinel-d6z3gy8.jpg");
-  background-size: cover;
-  padding: 500px;
+  background-size: 100%;
+  padding: 300px;
   margin: 30px;  
      font-family: roboto, sans-serif;
 }
@@ -19,7 +19,7 @@ body {
 h2{
   
    font-size: 4rem;
-   color: maroon;
+   color: oragered;
    font-weight: bold;    
 }
 
