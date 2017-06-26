@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: steelblue;
+    background-color: darkslategray;
 }
 
 .hero{
@@ -25,6 +25,11 @@ h2{
    font-size: 4rem;
    color: OrangeRed;
    font-weight: bold;    
+}
+
+h1{
+    font-family: ubuntu, serif;
+    color: OrangeRed;
 }
 
 
