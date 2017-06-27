@@ -15,5 +15,8 @@ section{
   border: solid green 2px;
   text-align: center;
   color: gold;
+}
+
+section p{
   background color: black;
 }
