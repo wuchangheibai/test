@@ -17,6 +17,10 @@ section{
   color: gold;
 }
 
-section p{
+p{
   background color: black;
+}
+
+.ssl {
+  border: 2px solid black 
 }
